@@ -1,3 +1,6 @@
+ #Updated By Vinshayne Pacilan
+ 
+ 
  Customer Support Ticket Mobile App
 
 An intuitive, modern cross-platform mobile application built with React Native and Expo. This app enables users to submit support requests, categorize their issues, attach screenshots, and transmit notifications directly through integrated third-party cloud services.
